@@ -1,0 +1,24 @@
+
+[
+    {
+        "id":1,
+      "question": "What type of consultancy services do you provide?",
+      "answer":"We offer a range of consultancy services tailored to business development, legal advice, financial planning, and strategic growth. Our team is skilled in both domestic and international markets, providing clients with actionable insights and tailored solutions."
+    },
+    {
+        "id":2,
+      "question": "How experienced is your team?",
+      "answer":"Our team consists of professionals with extensive experience in their respective fields, holding qualifications and accreditations relevant to our areas of consultancy. Many of our consultants have over 10 years of experience in business, finance, and strategic advisory roles."
+    },
+    {
+        "id":3,
+      "question": "Can you expedite passport and visa applications?",
+      "answer":"Yes, we offer expedited services for urgent cases. Processing times vary by country and type of application, so please contact us as soon as possible if you need an expedited service."
+    },
+    {
+        "id":4,
+      "question": "What documents do I need for a passport or visa application?",
+      "answer":"Document requirements vary depending on the type of application and your country of citizenship. Generally, you’ll need proof of identity, proof of citizenship, and passport-sized photos. We provide a detailed checklist for each application to ensure you have everything you need."
+    }
+   
+  ]

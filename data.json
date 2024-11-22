@@ -1,0 +1,2399 @@
+[
+    {
+        "id": 1,
+        "name": "student-visa",
+        "title": "Student Visa",
+        "desc": "Expert guidance for a smooth student visa application. We help you navigate every step.",
+        "icon": "/flaticons/s5.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "usa",
+                "title": "USA",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/uk1.jpg",
+                    "/city/uk2.jpg",
+                    "/city/uk3.jpg",
+                    "/city/uk4.jpg",
+                    "/city/uk5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/usa.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Form I-20",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Financial Proof",
+                    "SEVIS Fee Receipt",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "canada",
+                "title": "Canada",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/uk1.jpg",
+                    "/city/uk2.jpg",
+                    "/city/uk3.jpg",
+                    "/city/uk4.jpg",
+                    "/city/uk5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/canada.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "united-kingdom",
+                "title": "United Kingdom",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/uk1.jpg",
+                    "/city/uk2.jpg",
+                    "/city/uk3.jpg",
+                    "/city/uk4.jpg",
+                    "/city/uk5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/united-kingdom.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Confirmation of Acceptance for Studies (CAS)",
+                    "Financial Proof",
+                    "English Proficiency Evidence",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "australia",
+                "title": "Australia",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/uk1.jpg",
+                    "/city/uk2.jpg",
+                    "/city/uk3.jpg",
+                    "/city/uk4.jpg",
+                    "/city/uk5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/australia.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Acceptance Letter",
+                    "Financial Proof",
+                    "Travel Insurance",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "europe",
+                "title": "Europe",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/uk1.jpg",
+                    "/city/uk2.jpg",
+                    "/city/uk3.jpg",
+                    "/city/uk4.jpg",
+                    "/city/uk5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/eu.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Acceptance Letter",
+                    "Financial Proof",
+                    "Travel Insurance",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "france",
+                "title": "France",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/uk1.jpg",
+                    "/city/uk2.jpg",
+                    "/city/uk3.jpg",
+                    "/city/uk4.jpg",
+                    "/city/uk5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/france.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Acceptance Letter",
+                    "Financial Proof",
+                    "Travel Insurance",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 7,
+                "name": "germany",
+                "title": "Germany",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/germany1.jpg",
+                    "/city/germany2.jpg",
+                    "/city/germany3.jpg",
+                    "/city/germany4.jpg",
+                    "/city/germany5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/germany.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Acceptance Letter",
+                    "Financial Proof",
+                    "Travel Insurance",
+                    "Home Ties"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "visitor-visa",
+        "title": "Visitor Visa",
+        "desc": "Explore new destinations with ease. Our visitor visa services provide personalized support.",
+        "icon": "/flaticons/s3.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "usa",
+                "title": "USA",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/usa.png",
+                "documents": [
+                    "Passport",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Appointment Confirmation",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Home Ties"
+                ],
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "canada",
+                "title": "Canada",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/canada.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "IMM 5257 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Invitation (if any)",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "united-kingdom",
+                "title": "United Kingdom",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/united-kingdom.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Accommodation",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "australia",
+                "title": "Australia",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/australia.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Photo",
+                    "Bank Statement",
+                    "Income Tax Return(ITR)"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "vietnam",
+                "title": "Vietnam",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "30 days",
+                    "validity": "30 days",
+                    "entry": "single",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/vietnam1.jpg",
+                    "/city/vietnam2.jpg",
+                    "/city/vietnam3.png",
+                    "/city/vietnam4.webp",
+                    "/city/vietnam5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/vietnam.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "france",
+                "title": "France",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/france.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Work Contract",
+                    "Labor Market Test (if applicable)",
+                    "Financial Proof",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 7,
+                "name": "uae",
+                "title": "UAE",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "30 days",
+                    "validity": "60 days",
+                    "entry": "Single",
+                    "entryprice":10
+                },
+                "countryImages": [
+                    "/city/uae1.jpg",
+                    "/city/uae2.jpg",
+                    "/city/uae3.jpg",
+                    "/city/uae4.jpg",
+                    "/city/uae5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/uae.jpg",
+                "documents": [
+                    "Photo",
+                    "Passport"
+                ],
+                "details": [
+                    "Photo",
+                    "Passport"
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "name": "germany",
+                "title": "Germany",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/germany1.jpg",
+                    "/city/germany2.jpg",
+                    "/city/germany3.jpg",
+                    "/city/germany4.jpg",
+                    "/city/germany5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/germany.png",
+                "documents": [
+                    "Passport",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Appointment Confirmation",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Home Ties"
+                ],
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "work-visa",
+        "title": "Work Visa",
+        "desc": "Achieve professional success abroad with our personalized work visa services.",
+        "icon": "/flaticons/s1.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "usa",
+                "title": "USA",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/usa.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Form I-129 (Petition for a Nonimmigrant Worker)",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Job Offer Letter",
+                    "Labor Certification (if applicable)",
+                    "Financial Proof",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "canada",
+                "title": "Canada",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/canada.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Work Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Job Offer Letter",
+                    "Labor Market Impact Assessment (if applicable)",
+                    "Financial Proof",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "united-kingdom",
+                "title": "United Kingdom",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/united-kingdom.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Certificate of Sponsorship",
+                    "Financial Proof",
+                    "English Proficiency Evidence",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "australia",
+                "title": "Australia",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/australia.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Job Offer Letter",
+                    "Skills Assessment (if applicable)",
+                    "Financial Proof",
+                    "Health Insurance"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "europe",
+                "title": "Europe",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/eu.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Employment Contract",
+                    "Financial Proof",
+                    "Health Insurance",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "france",
+                "title": "France",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":100
+                },
+                "countryImages": [
+                    "/city/australia1.jpg",
+                    "/city/australia2.jpg",
+                    "/city/australia3.jpg",
+                    "/city/australia4.jpg",
+                    "/city/australia5.jpg"
+                ],
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/france.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Passport",
+                    "Visa Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Work Contract",
+                    "Labor Market Test (if applicable)",
+                    "Financial Proof",
+                    "Home Ties"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "passport",
+        "title": "Passport",
+        "desc": "Get your passport quickly and easily your passport application process with our expert guidance.",
+        "icon": "/flaticons/s4.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-passport",
+                "title": "New Passport",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "For a regular passport application, we provide comprehensive support with documentation and processing. Our team ensures a smooth experience, assisting you through each step to ensure timely."
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Citizenship Proof",
+                    "Passport Photo",
+                    "Fee Payment",
+                    "Parental Consent (if under 18)"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "passport-renew",
+                "title": "Passport Renew",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/renew.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Completed Renewal Application Form",
+                    "Most Recent Passport",
+                    "Passport Photo",
+                    "Fee Payment",
+                    "ID Proof (if required)"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "passport-renew-for-indian-citizenship",
+                "title": "Passport Renew For Indian Citizenship",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/renew.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Current Passport",
+                    "Passport Photo",
+                    "Fee Receipt",
+                    "Address Proof",
+                    "ID Proof",
+                    "Annexure D (if applicable)"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "passport-apply-for-foreign-citizenship",
+                "title": "Passport Apply For Foreign Citizenship",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/apply.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Citizenship Proof",
+                    "Passport Photo",
+                    "ID Proof",
+                    "Address Proof",
+                    "Fee Payment"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "passport-renew-for-foreign-citizenship",
+                "title": "Passport Renew For Foreign Citizenship",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/renew.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Renewal Form",
+                    "Current Passport",
+                    "Passport Photo",
+                    "Fee Payment",
+                    "Citizenship Proof",
+                    "ID Proof"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "pcc",
+        "title": "PCC",
+        "desc": "We simplify the process of obtaining your Police Clearance Certificate for international travel",
+        "icon": "/flaticons/pcc.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "pcc-for-usa",
+                "title": "Pcc for USA",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/usa.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Fingerprinting (if required)",
+                    "Fee Payment",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "pcc-for-canada",
+                "title": "Pcc for Canada",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/canada.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Fingerprinting (if required)",
+                    "Fee Payment",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "pcc-for-united-kingdom",
+                "title": "Pcc for United Kingdom",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/united-kingdom.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Fingerprinting (if required)",
+                    "Fee Payment",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "pcc-for-australia",
+                "title": "Pcc for Australia",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/australia.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Fingerprinting (if required)",
+                    "Fee Payment",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "pcc-for-europe",
+                "title": "Pcc for Europe",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/eu.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Fingerprinting (if required)",
+                    "Fee Payment",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "pcc-for-france",
+                "title": "Pcc for France",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flags/france.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Fingerprinting (if required)",
+                    "Fee Payment",
+                    "Photo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "aadhar-card",
+        "title": "Aadhar Card",
+        "desc": "Quick and efficient solutions for all your Aadhaar card needs.",
+        "icon": "/flaticons/s7.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-aadhar-card",
+                "title": "New Aadhar Card",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "ID Proof",
+                    "Address Proof",
+                    "Date of Birth Proof",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-aadhar-card",
+                "title": "Update Aadhar Card",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Aadhaar Number",
+                    "Supporting Document for change",
+                    "Photo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "pan_card",
+        "title": "Pan Card",
+        "desc": "Efficient processing for new and updated PAN card applications.",
+        "icon": "/flaticons/s8.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-pancard",
+                "title": "New Pancard",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Date of Birth Proof",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-pancard",
+                "title": "Update Pancard",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Pan card",
+                    "Supporting Document for change",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "new-pancard-for-nri",
+                "title": "New Pancard For NRI",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Date of Birth Proof",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "update-pancard-for-nri",
+                "title": "Update Pancard For NRI",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form 49A",
+                    "Supporting Document for Change",
+                    "Photo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "election-card",
+        "title": "Election Card",
+        "desc": "Personalized support to help you manage your election card updates swiftly.",
+        "icon": "/flaticons/s6.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-election-card",
+                "title": "New Election Card",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Age Proof",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-election-card",
+                "title": "Update Election Card",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Election Card",
+                    "Supporting Document",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "cancel-election-card",
+                "title": "Cancel Election Card",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/cancel.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Election Card",
+                    "Death certificate",
+                    "ID Proof"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "gst",
+        "title": "GST",
+        "desc": "Expert assistance for all your GST registration and updates.",
+        "icon": "/flaticons/gstIcon.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-gst",
+                "title": "New GST",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "PAN Card",
+                    "Business Registration Proof",
+                    "ID Proof",
+                    "Address Proof",
+                    "Bank Statement/Cheque",
+                    "Photographs"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-gst",
+                "title": "Update GST",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "PAN Card",
+                    "GST Certificate",
+                    "Supporting Document",
+                    "Bank Statement",
+                    "Photographs"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "driving-license",
+        "title": "Driving License",
+        "desc": "Hassle-free processing of your driving license applications and updates.",
+        "icon": "/flaticons/driving-license2.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-driving-license",
+                "title": "New Driving License",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "DOB Proof",
+                    "Photos",
+                    "Learner's License"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-driving-license",
+                "title": "Update Driving License",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing License",
+                    "Supporting Document",
+                    "Photos"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "income-certificate",
+        "title": "Income Certificate",
+        "desc": "We provide assistance for obtaining and updating your income certificates easily",
+        "icon": "/flaticons/income.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-income-certificate",
+                "title": "New Income Certificate",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Income Proof",
+                    "Self-declaration (if required)"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-income-certificate",
+                "title": "Update Income Certificate",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Certificate",
+                    "ID Proof",
+                    "Updated Income Proof",
+                    "Address Proof"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "pf",
+        "title": "Provident Fund",
+        "desc": "Simplified handling of your Provident Fund claims and updates.",
+        "icon": "/flaticons/pf.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "claim-pf",
+                "title": "Claim PF",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/claim.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Certificate",
+                    "ID Proof",
+                    "Updated Income Proof",
+                    "Address Proof"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "kyc-update-for-pf",
+                "title": "KYC Update For PF",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/kyc.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Certificate",
+                    "ID Proof",
+                    "Updated Income Proof",
+                    "Address Proof"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "transfer-pf",
+                "title": "Transfer PF",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/pft.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Certificate",
+                    "ID Proof",
+                    "Updated Income Proof",
+                    "Address Proof"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "ration-card",
+        "title": "Ration Card",
+        "desc": "Efficient services for applying and updating your ration card.",
+        "icon": "/flaticons/ration.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-ration-card",
+                "title": "New Ration Card",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "ID Proof",
+                    "Address Proof",
+                    "Income Proof (if required)",
+                    "Photo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-ration-card",
+                "title": "Update Ration Card",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Card",
+                    "ID Proof",
+                    "Address Proof",
+                    "Photo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "msme-registration",
+        "title": "MSME Registration",
+        "desc": "Facilitating the MSME registration process with expert guidance.",
+        "icon": "/flaticons/msme.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "new-msme-registration",
+                "title": "New MSME Registration",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/create.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Aadhaar Number",
+                    "PAN Card",
+                    "Business Registration (if applicable)",
+                    "Bank Details",
+                    "Address Proof",
+                    "Investment Proof"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "update-msme-registration",
+                "title": "Update MSME Registration",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/update.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Application Form",
+                    "Existing Certificate",
+                    "Aadhaar Number",
+                    "PAN Card",
+                    "Updated Address Proof",
+                    "Investment Proof"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "newspaper-ads",
+        "title": "Newspaper Ads",
+        "desc": "Effective newspaper advertisement solutions which required",
+        "icon": "/flaticons/newspaper.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "create-newspaper-ads",
+                "title": "Create Newspaper Ads",
+                "pricing": [
+                    {
+                        "id": 1,
+                        "name": "single-entry",
+                        "price": 700
+                    },
+                    {
+                        "id": 2,
+                        "name": "multiple-entry",
+                        "price": 1200
+                    }
+                ],
+                "img": "/flaticons/newspaperadd.png",
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ],
+                "documents": [
+                    "Ad Content",
+                    "Ad Size",
+                    "Publication Name",
+                    "Publication Date",
+                    "Contact Info",
+                    "Payment Details"
+                ]
+            }
+        ]
+    }
+]
